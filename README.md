@@ -1,4 +1,4 @@
-# ema-john-e-commerce
+# ema-john-e-commerce version 1
 
 For install dependency:
 
